@@ -5,3 +5,4 @@
     I am just coming back from vacation so I started working on this today July 8th. I have created the form UI in index.html. There are 4 fields of input and a link to generate password which I plan to change to a button control.
     Things that remain is the code in logic.php. Here I plan to have an array of words out of which I will randomly pick a number of words based on the user input and present to the user.  
 </p>
+![Alt text](PWD.tiff "Screenshot") 
