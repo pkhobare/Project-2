@@ -21,7 +21,7 @@
 <?php
     for($int = 0; $int < count($Password); $int++)
     {
-        echo($Password[$int].str_repeat('&nbsp;', 5));
+        echo($Password[$int]);
     }
     
     ?>
